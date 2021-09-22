@@ -1,13 +1,13 @@
 # BuildMyWorld-RSE
 Project 1 of the Robotics Software Engineering Nanodegree Program of Udacity. 
 
-Outcomes -->\
+Outcomes -->
 
 Built a model of my apartment in Gazebo.\
 Built a wheeled mobile robot and housed it in my apartment.\
 Incorporated a plugin to print a welcome message once the apartment loads in Gazebo.
 
-Directory structure -->\
+Directory structure -->
 
 media: Screenshots of the Gazebo world.\
 model : Gazebo model files of my apartment and a mobile robot.\
