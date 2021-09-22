@@ -7,6 +7,7 @@ Built a wheeled mobile robot and housed it in my apartment.\
 Incorporated a plugin to print a welcome message once the apartment loads in Gazebo.
 
 Directory structure -->\
+media: Screenshots of the Gazebo world.\
 model : Gazebo model files of my apartment and a mobile robot.\
 script : C++ file for a plugin that loads a welcome message.\
 world : Gazebo world file containting my apartment and the mobile robot.\
