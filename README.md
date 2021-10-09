@@ -1,18 +1,27 @@
 # BuildMyWorld-RSE
 Project 1 of the Robotics Software Engineering Nanodegree Program of Udacity. 
 
-Outcomes -->
+## Outcomes -->
 
-- Built a model of my apartment in Gazebo
-- Built a wheeled mobile robot and housed it in my apartment
-- Incorporated a plugin to print a welcome message once the apartment loads in Gazebo
+- **Built** a model of my **apartment** in Gazebo
+- Built a wheeled **mobile robot** and housed it in my apartment
+- Incorporated a **plugin** to print a welcome message once the apartment loads in Gazebo
 
-Directory structure -->
+## Directory structure -->
 
-- media: Screenshots of the Gazebo world
-- model : Gazebo model files of my apartment and a mobile robot
-- script : C++ file for a plugin that loads a welcome message
-- world : Gazebo world file containting my apartment and the mobile robot
-- CMakeLists.txt : Link libraries
+    ├── model                          # Model files 
+    │   ├── APT916                     # Build files for an apartment
+    │   │   ├── Floorplan.jpeg 
+    │   │   ├── model.config
+    │   │   ├── model.sdf
+    │   ├── ServeronWheels             # Build files for a mobile robot     
+    │   │   ├── model.config
+    │   │   ├── model.sdf
+    ├── script                         # Gazebo World plugin C++ script     
+    │   ├── welcome.cpp
+    ├── world                          # Gazebo main World containing models 
+    │   ├── myApartment
+    ├── CMakeLists.txt                 # Link libraries 
+    └── media                          # Screenshots of the mobile robot and the apartment
 
 
