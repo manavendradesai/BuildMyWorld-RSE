@@ -9,10 +9,10 @@ Outcomes -->
 
 Directory structure -->
 
-media: Screenshots of the Gazebo world.\
-model : Gazebo model files of my apartment and a mobile robot.\
-script : C++ file for a plugin that loads a welcome message.\
-world : Gazebo world file containting my apartment and the mobile robot.\
-CMakeLists.txt : Link libraries.
+- media: Screenshots of the Gazebo world
+- model : Gazebo model files of my apartment and a mobile robot
+- script : C++ file for a plugin that loads a welcome message
+- world : Gazebo world file containting my apartment and the mobile robot
+- CMakeLists.txt : Link libraries
 
 
