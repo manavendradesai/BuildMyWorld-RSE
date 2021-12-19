@@ -5,7 +5,7 @@ Project 1 of the Robotics Software Engineering Nanodegree Program at Udacity.
 
 - **Built** a model of my **apartment** in Gazebo
 - Built a wheeled **mobile robot** and housed it in my apartment
-- Incorporated a **plugin** to print a welcome message once the apartment loads in Gazebo
+- Incorporated a **plugin** `welcome.cpp` to print a welcome message once the apartment loads in Gazebo
 
 ## Directory structure -->
 
@@ -22,6 +22,6 @@ Project 1 of the Robotics Software Engineering Nanodegree Program at Udacity.
     ├── world                          # Gazebo main World containing models 
     │   ├── myApartment
     ├── CMakeLists.txt                 # Link libraries 
-    └── media                          # Screenshots of the mobile robot and the apartment
+    └── media                          # Screenshots of the mobile robot and the apartment in Gazebo
 
 
